@@ -160,13 +160,13 @@ vcgencmd pmic_read_adc
 1. Launch **Finder**, choose **Go** from the top menu, and select **Connect to Server...** (or press `Cmd + K`).
 2. Supply the unified path utilizing your specific Tailscale URL prefix:
    ```text
-   smb://ayegwalopi.tail1191e1.ts.net/ExternalDrive
+   smb://your-node-name.your-tailnet-id.ts.net/ExternalDrive
    ```
 3. Mark the connection type as **Registered User** and authorize using your Raspberry Pi system username and password credentials.
 
 ### iOS / iPadOS (Native Files App)
 1. Turn on the **Tailscale app** connection tunnel on your mobile device.
 2. Launch the Apple **Files** app, navigate to the **Browse** shelf tab, tap the **More (...)** icon, and pick **Connect to Server**.
-3. Supply your raw Tailscale domain node identifier: `ayegwalopi.tail1191e1.ts.net`.
+3. Supply your raw Tailscale domain node identifier: `your-node-name.your-tailnet-id.ts.net`.
 4. Pick **Registered User** and input your authentication details to access your storage space cleanly from any destination globally.
 
