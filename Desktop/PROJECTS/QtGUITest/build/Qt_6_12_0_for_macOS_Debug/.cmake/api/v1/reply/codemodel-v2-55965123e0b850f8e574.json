@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-98fd915cba09d9f33c84.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QtGUITest",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "QtGUITest::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QtGUITest-Debug-35f2fede2e69abc13912.json",
+					"name" : "QtGUITest",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QtGUITest_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QtGUITest_autogen-Debug-09c3def796d42553f16e.json",
+					"name" : "QtGUITest_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QtGUITest_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QtGUITest_autogen_timestamp_deps-Debug-7225f34e7dbef9c13ebc.json",
+					"name" : "QtGUITest_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/ayegwalo/Desktop/PROJECTS/QtGUITest/build/Qt_6_12_0_for_macOS_Debug",
+		"source" : "/Users/ayegwalo/Desktop/PROJECTS/QtGUITest"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
